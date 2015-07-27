@@ -2,7 +2,8 @@
  * Module dependencies.
  */
 var express = require('express'),
-    fs = require('fs');
+    fs = require('fs'),
+    compression = require('compression');
 
 /**
  * Main application entry file.

@@ -17,6 +17,13 @@
     "test": "node node_modules/grunt-cli/bin/grunt test"
   },
   "dependencies": {
+    "compression": "latest",
+    "cookie-parser": "latest",
+    "body-parser": "latest",
+    "method-override": "latest",
+    "express-session": "latest",
+    "morgan": "latest",
+    "serve-favicon": "latest",
     "express": "latest",
     "jade": "latest",
     "mongoose": "latest",
