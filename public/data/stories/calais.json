@@ -1,0 +1,193 @@
+{
+  "storyline": {
+    "title": "Europe's Migrant Crisis",
+    "summary": "Thousands of people have tried to get to Europe, by land and by sea, at great risk to their lives.",
+    "showIntro": true,
+    "beginDate": "2014-09-04",
+    "endDate": "2015-07-30",
+    "map": {
+      "center": [1.862801, 50.954468],
+      "zoom": 6,
+      "kml": "/data/kml/calais.kml"
+    },
+    "chapters": [
+      {
+        "title": "Calais",
+        "beginDate": "2010-12-01",
+        "endDate": "2010-12-01",
+        "map": {
+          "kml": "/data/kml/calais.kml"
+        },
+        "pages": [
+          {
+            "title": "Calais",
+            "summary": "Hundreds of migrants in the French port of Calais have tried to force their way onto ferries and into the Channel Tunnel.",
+            "showIntro": true,
+            "beginDate": "2014-09-04",
+            "endDate": "2014-09-04",
+            "map": {
+              "center": [1.0, 49.922],
+              "zoom": 8,
+              "kml": "/data/kml/calais.kml",
+              "label": "Port of Calais"
+            },
+            "quote": {
+              "quote": "What have we got to do for [the] English to listen to us?",
+              "attribution": "Natacha Bouchart, mayor of Calais"
+            }
+          },
+          {
+            "title": "Ferries Stormed",
+            "summary": "Officials said that two attempts were made to board MyFerryLink ship Berlioz. In the first about 85 migrants forced their way through a gate and climbed over fences, overpowering security staff.",
+            "beginDate": "2014-09-04",
+            "endDate": "2014-09-04",
+            "image": {
+              "url": "/images/calais1.png",
+              "width": 1920,
+              "height": 1206
+            }
+          },
+          {
+            "title": "Migrants filmed scaling Eurotunnel Calais terminal fence",
+            "summary": "<p>Migrants have been captured on camera climbing over a security fence into the Eurotunnel terminal in Calais.</p>",
+            "beginDate": "2015-07-28",
+            "endDate": "2015-07-28",
+            "image": {
+              "url": "/images/calais2.png",
+              "width": 1920,
+              "height": 1206
+            }
+          },
+          {
+            "title": "Operation Stack",
+            "summary": "<p>Lorries park on Kent's M20 when Channel crossings are disrupted.</p>",
+            "beginDate": "2015-07-28",
+            "endDate": "2015-07-31",
+            "image": {
+              "url": "/images/stack.jpg",
+              "width": 1920,
+              "height": 1206
+            }
+          },
+          {
+            "title": "Stats",
+            "summary": "<p><img src='/images/stats.png'></p>",
+            "map": {
+              "center": [1.0, 49.922],
+              "zoom": 8,
+              "kml": "/data/kml/calais.kml",
+              "label": "Port of Calais"
+            }
+          }
+        ]
+      },
+      {
+        "title": "Mediterranean Sea",
+        "beginDate": "2011-01-25",
+        "endDate": "2011-01-25",
+        "map": {
+          "kml": "/data/kml/med.kml"
+        },
+        "pages": [
+          {
+            "title": "Mediterranean Sea",
+            "summary": "Thousands have perished trying to make it to Italy from Libya.",
+            "showIntro": true,
+            "beginDate": "2015-04-19",
+            "map": {
+              "center": [17.050781, 37.396346],
+              "zoom": 5,
+              "label": "Mediterranean"
+            }
+          },
+          {
+            "title": "Ferries",
+            "summary": "A three-deck fishing boat carrying migrants from Libya sank on Sunday after crashing into a merchant rescue ship, in what the UN has called the deadliest incident in the Mediterranean ever recorded.",
+            "showIntro": true,
+            "beginDate": "2015-04-19",
+            "map": {
+              "center": [17.050781, 37.396346],
+              "zoom": 5,
+              "label": "Site of shipwreck"
+            },
+            "quote": {
+                "quote": "We found, literally, a floating cemetery. Bodies were everywhere.",
+                "attribution": "medic"
+            }
+          },
+          {
+            "title": "Syrian Civil War",
+            "summary": "There has been a recent surge in the number of Syrian migrants, fleeing the civil war in their country. The boats from Libya are also carrying Afghans, Somalis and Iraqis - again, fleeing conflict - as well as Eritreans, keen to escape their repressive government.",
+            "image": "/images/migrants.jpg",
+            "quote": {
+              "quote": "Is this a jail? Are we refugees?",
+              "attribution": "14 year old child"
+            }
+          },
+          {
+            "title": "The Failed State",
+            "summary": "There has been no effective government since the 2011 uprising that drove out Col Muammar Gaddafi. Instead, there are hundreds of different armed groups fighting for territory and influence.",
+            "beginDate": "2011-01-28",
+            "endDate": "2011-01-28",
+            "map": {
+              "center": [20.302734, 32.424022],
+              "zoom": 7
+            },
+            "quote": {
+              "quote": "It is a critical time for the country and urged Egyptians to stand together, be optimistic about the future",
+              "attribution": "Prime Minister Hazem Beblawi "
+            }
+          }
+        ]
+      },
+      {
+        "title": "Libya",
+        "beginDate": "2011-02-15",
+        "endDate": "2011-02-15",
+        "map": {
+          "kml": "/data/kml/libya.kml"
+        },
+        "pages": [
+          {
+            "title": "Libya",
+            "summary": "The Libyan Civil War, also referred to as the Libyan Revolution was a 2011 armed conflict in the North African country of Libya, fought between forces loyal to Colonel Muammar Gaddafi and those seeking to oust his government.",
+            "showIntro": true,
+            "beginDate": "2011-01-25",
+            "endDate": "2011-02-12",
+            "map": {
+              "center": [21, 27],
+              "zoom": 5,
+              "label": "Libya"
+            },
+            "quote": {
+                "quote": "It's freedom. There's no Gaddafi, unbelievable. I feel the freedom. I smell the freedom.",
+                "attribution": "Lamin el-Bijou, Banghazi resident"
+            }
+          },
+          {
+            "title": "Protests",
+            "summary": "Protests in Egypt began on 25 January 2011 and ran for 18 days. Beginning around midnight on 28 January, the Egyptian government attempted, somewhat successfully, to eliminate the nation's Internet access, in order to inhibit the protesters' ability use media activism to organize through social media.[192] Later that day, as tens of thousands protested on the streets of Egypt's major cities, President Hosni Mubarak dismissed his government, later appointing a new cabinet. Mubarak also appointed the first Vice President in almost 30 years.",
+            "beginDate": "2011-01-25",
+            "endDate": "2011-02-12",
+            "map": {
+              "center": [20.0667, 32.1167],
+              "zoom": 10,
+              "label": "Benghazi"
+            }
+          },
+          {
+            "title": "Gaddafi killed",
+            "summary": "Libya's ex-leader Col Muammar Gaddafi has been killed after an assault on his birthplace of Sirte, officials say. Acting Prime Minister Mahmoud Jibril announced the death, and later said the colonel had been killed in a crossfire between Gaddafi loyalists and fighters from the transitional authorities.",
+            "beginDate": "2011-10-20",
+            "endDate": "2011-10-20",
+            "quote": {
+                "quote": "My master is here ... Muammar Gaddafi is here and he is wounded",
+                "attribution": "Unnamed Gaddafi bodyguard"
+            },
+            "image": "/images/colonel-gaddafi.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}
