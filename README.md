@@ -2,11 +2,14 @@
 
 ## Setup
 
+You'll need [node](http://nodejs.org), [npm](https://www.npmjs.com), [bower](http://bower.io/), and [grunt](http://gruntjs.com/getting-started) installed first. On the Mac, many of these can be easily installed with [homebrew](http://brew.sh/) but each website also has installation instructions.
+
 ```
 git clone git@github.com:BBC-News-Labs/geospatial-story-explorer.git
 cd geospatial-story-explorer
 npm install
 bower install
+grunt less
 node server.js
 ```
 
